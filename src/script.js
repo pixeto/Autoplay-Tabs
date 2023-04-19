@@ -1,4 +1,5 @@
 import gsap from 'gsap'
+import { ScrollTrigger } from 'gsap/ScrollTrigger';
 import $ from "jquery";
 
 window.addEventListener("DOMContentLoaded", (event) => {
