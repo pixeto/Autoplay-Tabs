@@ -12,6 +12,7 @@
   },
   "dependencies": {
     "gsap": "^3.11.5",
-    "jquery": "^3.6.4"
+    "jquery": "^3.6.4",
+    "scrolltrigger": "^1.0.1"
   }
 }
